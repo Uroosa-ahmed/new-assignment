@@ -65,12 +65,12 @@
 
 
 // Task 5
-// function changeBackgroundColor(element,color)
-// {element.style.backgroundColor=color;}
-
+// function changeBackgroundColor(p, newColor){
+// p.style.backgroundColor = newColor;
+// }
 // // How to Use
-// const myElement = document.getElementById('myElement');
-// changeBackgroundColor(myElement,'red');
+// const newBg = document.getElementById('element');
+// changeBackgroundColor(newBg,'pink');
 
 // Task 6 
 // function saveTolocalStorage(key,value){
